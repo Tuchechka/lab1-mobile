@@ -1,6 +1,6 @@
 {
-    "name": "mobile_flutter_lab_1",
-    "short_name": "mobile_flutter_lab_1",
+    "name": "my_project",
+    "short_name": "my_project",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",

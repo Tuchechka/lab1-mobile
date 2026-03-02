@@ -22,6 +22,7 @@ jobs:
 
       - name: Flutter Pub Get
         run: flutter pub get
+        working-directory: my_project
 
       - name: Run Dart Analysis
         uses: invertase/github-action-dart-analyzer@main
